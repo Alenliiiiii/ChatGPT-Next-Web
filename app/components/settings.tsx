@@ -864,7 +864,6 @@ export function Settings() {
           <UserPromptModal onClose={() => setShowPromptModal(false)} />
         )}
 
-        <DangerItems />
       </div>
     </ErrorBoundary>
   );
